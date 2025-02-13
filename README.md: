@@ -1,0 +1,43 @@
+Vulnerability Assessment Report: Mr. Robot Web Application  
+
+ Overview  
+This repository documents the vulnerability assessment of the "Mr. Robot" web application. The assessment was performed as part of my internship task using industry-standard tools.  
+
+ Tools Used  
+- OWASP ZAP: For automated vulnerability scanning and analysis.  
+- Burp Suite: For manual testing and exploitation.  
+- Nmap: For network scanning and service enumeration.
+- Metasploit: For exploitation and post-exploitation activities.  
+- Python: For custom scripts and automation. 
+
+ Objectives  
+- Identify security vulnerabilities in the "Mr. Robot" web application.  
+- Analyze the risks associated with each vulnerability.  
+- Provide recommendations to mitigate the identified risks.  
+
+Skills Gained  
+- Vulnerability scanning and enumeration.  
+- Basic penetration testing.  
+- Professional report writing.  
+
+ Report Contents  
+The report includes:  
+1. Executive Summary  
+2. Tools and Methodologies Used  
+3. Vulnerability Findings  
+4. Risk Analysis and Impact  
+5. Recommendations for Mitigation  
+6. Conclusion  
+
+How to Use  
+- Clone the repository:  
+  git clone https://github.com/MadlyAbi/FUTURE_CS_01.git
+
+Review the report (MrRobot_Vulnerability_Assessment.pdf) for detailed findings and mitigation strategies.
+Disclaimer
+This assessment was conducted in a controlled environment for educational purposes. Unauthorized testing on live systems is illegal.
+
+Author 
+Abinesh S 
+
+
